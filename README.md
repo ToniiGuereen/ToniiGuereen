@@ -1,4 +1,7 @@
-<img width="800" height="250" alt="Tarjeta de desarrollador backend en neón" src="https://github.com/user-attachments/assets/ae5aefa6-dc62-4cf4-a1a4-31e8c0899370" />
+<p align="center">
+<img width="850" height="300" alt="Tarjeta de desarrollador backend en neón" src="https://github.com/user-attachments/assets/ae5aefa6-dc62-4cf4-a1a4-31e8c0899370" />
+  </p>
+  
 # Hi, I'm Toni!
 
 ## Backend Developer - Buenos Aires, Arg.
