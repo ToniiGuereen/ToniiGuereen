@@ -1,5 +1,5 @@
 <p align="center">
-<img width="870" height="280" alt="Tarjeta de desarrollador backend en neón" src="https://github.com/user-attachments/assets/ae5aefa6-dc62-4cf4-a1a4-31e8c0899370" />
+<img width="2172" height="724" alt="Tarjeta de desarrollador backend en neón" src="https://github.com/user-attachments/assets/e3729ef0-e2ff-4832-beba-5ebf109d703f" />
   </p>
   
 # Hi, I'm Toni!
