@@ -10,9 +10,7 @@
 
 ## - Tech Stack
 
-**Frontend**: JavaScript - TypeScript.svg - Next.js
-
-**Backend & Tools**: Node.js - REST APIs - Git - GitHub
+![stack](https://skillicons.dev/icons?i=js,ts,next,nodejs,git,github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniiGuereen)](https://github.com/anuraghazra/github-readme-stats)
 
