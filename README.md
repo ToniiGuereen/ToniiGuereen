@@ -1,38 +1,14 @@
-**Software Developer** | Full-stack engineer passionate about building modern, scalable web applications with clean code and great user experience.
+![Toni Guerendiain](https://github.com/ToniiGuereen/Workspace/blob/main/Tarjeta%20de%20desarrollador%20backend%20en%20ne%C3%B3n.png)
+# Hi, I'm Toni!
+## Backend Developer - Buenos Aires, Arg.
 
----
+[Portfolio] - [LinkedIn](https://www.linkedin.com/in/antonio-guerendiain-072295356/) - [Email](mailto:tonicodews@gmail.com)
 
-## 🛠️ Tech Stack
+## - Tech Stack
 
-**Frontend:**
-JavaScript -
-TypeScript -
-React -
-Next.js
+**Frontend**: JavaScript - TypeScript - Next.js
 
-**Backend & Tools:**
-Node.js -
-REST APIs -
-Git -
-GitHub
+**Backend & Tools**: Node.js - REST APIs - Git - GitHub
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniiGuereen)](https://github.com/anuraghazra/github-readme-stats)
 
-## 💡 What I'm About
-
-- 🎯 Building user-focused web applications with clean, maintainable code
-- 🚀 Full-stack development with modern JavaScript/TypeScript ecosystems
-- 🔧 Strong focus on architecture, performance, and scalability
-- 📚 Continuous learner passionate about improving developer experience
-
----
-
-## 📬 Get in Touch
-
-- **GitHub:** [@ToniiGuereen](https://github.com/ToniiGuereen)
-- **LinkedIn:** Antonio Guerendiain
----
-
-<div align="center">
-
-</div>
