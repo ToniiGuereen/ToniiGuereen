@@ -5,16 +5,16 @@
 ## 🛠️ Tech Stack
 
 **Frontend:**
-![JavaScript]
-![TypeScript]
-![React]
-![Next.js]
+JavaScript
+TypeScript
+React
+Next.js
 
 **Backend & Tools:**
-![Node.js]
-![REST APIs]
-![Git]
-![GitHub]
+Node.js
+REST APIs
+Git
+GitHub
 
 ---
 
