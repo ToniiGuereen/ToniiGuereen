@@ -1,5 +1,4 @@
-![alt text](<img width="1085" height="408" alt="Tarjeta de desarrollador backend en neón" src="https://github.com/user-attachments/assets/ae5aefa6-dc62-4cf4-a1a4-31e8c0899370" />
-.png)
+<img width="1085" height="408" alt="Tarjeta de desarrollador backend en neón" src="https://github.com/user-attachments/assets/ae5aefa6-dc62-4cf4-a1a4-31e8c0899370" />
 # Hi, I'm Toni!
 ## Backend Developer - Buenos Aires, Arg.
 
