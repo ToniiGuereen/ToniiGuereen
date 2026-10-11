@@ -1,5 +1,3 @@
-# Hi, I'm Antonio 👋
-
 **Software Developer** | Full-stack engineer passionate about building modern, scalable web applications with clean code and great user experience.
 
 ---
@@ -22,17 +20,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### **WCSim** — World Cup 2026 Simulation App
-A full-stack football tournament simulator built with Next.js, TypeScript, and React. Features interactive team management, tournament simulations, and real-time match-day experiences.
-
-- **Repository:** [WCSim](https://github.com/ToniiGuereen/WCSim)
-- **Tech Stack:** Next.js 14 • TypeScript • React • REST APIs • CSS3
-- **Status:** Active Development
-
----
-
 ## 💡 What I'm About
 
 - 🎯 Building user-focused web applications with clean, maintainable code
@@ -50,18 +37,6 @@ A full-stack football tournament simulator built with Next.js, TypeScript, and R
 
 ---
 
-## 🎯 Open to Opportunities
-
-I'm actively looking for opportunities as a **Software Developer** in roles focusing on:
-- Frontend Development
-- Full-Stack Development
-- Product-driven web applications
-- Modern JavaScript/TypeScript ecosystems
-
----
-
 <div align="center">
-
-**Let's build something amazing together! 🚀**
 
 </div>
