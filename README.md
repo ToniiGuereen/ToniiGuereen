@@ -5,15 +5,15 @@
 ## 🛠️ Tech Stack
 
 **Frontend:**
-JavaScript
-TypeScript
-React
+JavaScript -
+TypeScript -
+React -
 Next.js
 
 **Backend & Tools:**
-Node.js
-REST APIs
-Git
+Node.js -
+REST APIs -
+Git -
 GitHub
 
 ---
@@ -30,9 +30,7 @@ GitHub
 ## 📬 Get in Touch
 
 - **GitHub:** [@ToniiGuereen](https://github.com/ToniiGuereen)
-- **Email:** [Add your email]
-- **LinkedIn:** [Add your LinkedIn]
-
+- **LinkedIn:** Antonio Guerendiain
 ---
 
 <div align="center">
