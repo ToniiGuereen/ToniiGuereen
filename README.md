@@ -4,7 +4,7 @@
   
 # Hi, I'm Toni!
 
-## Backend Developer - Buenos Aires, Arg.
+
 
 [Portfolio] - [LinkedIn](https://www.linkedin.com/in/antonio-guerendiain-072295356/) - [Email](mailto:tonicodews@gmail.com)
 
