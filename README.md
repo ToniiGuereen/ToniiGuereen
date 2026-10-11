@@ -10,7 +10,7 @@
 
 ## - Tech Stack
 
-**Frontend**: JavaScript - TypeScript - Next.js
+**Frontend**: JavaScript - TypeScript.svg - Next.js
 
 **Backend & Tools**: Node.js - REST APIs - Git - GitHub
 
