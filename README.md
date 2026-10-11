@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Antonio 👋
 
-<!--
-**ToniiGuereen/ToniiGuereen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on building modern web applications with clean architecture and a strong product mindset.
 
-Here are some ideas to get you started:
+## Tech Stack
+- JavaScript / TypeScript
+- React
+- Next.js
+- Node.js
+- HTML / CSS
+- Git / GitHub
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+- WCSim — World Cup 2026 simulation app built with Next.js and TypeScript
+- More projects coming soon
+
+## Contact
+- GitHub: https://github.com/ToniiGuereen
+- LinkedIn: [add your LinkedIn]
+- Email: [add your email]
+
+## Open to
+- Software Developer opportunities
+- Frontend / Full Stack roles
+- Product-driven web development
