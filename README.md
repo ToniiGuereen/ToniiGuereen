@@ -6,7 +6,7 @@
 
 
 
-[Portfolio](https://portfolio-lilac-chi-86.vercel.app/) - [LinkedIn](https://www.linkedin.com/in/antonio-guerendiain-072295356/) - [Email](mailto:tonicodews@gmail.com)
+[Portfolio](https://tonisd.vercel.app/) - [LinkedIn](https://www.linkedin.com/in/antonio-guerendiain-072295356/) - [Email](mailto:tonicodews@gmail.com)
 
 ## - Tech Stack
 
