@@ -10,7 +10,7 @@
 
 ## - Tech Stack
 
-![stack](https://skillicons.dev/icons?i=js,ts,next,nodejs,git,github)
+![stack](https://skillicons.dev/icons?i=js,py,react,next,nodejs,git,github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniiGuereen)](https://github.com/anuraghazra/github-readme-stats)
 
